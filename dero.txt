@@ -1,1 +1,1 @@
---wallet-address dero1qy9s3h26z3qdgztg6j73p0rve6p24fphytz0jx8l4vmj09yjt0ctyqg9ru8zs --daemon-rpc-address dero.friendspool.club:10300
+--wallet-address dero1qy9s3h26z3qdgztg6j73p0rve6p24fphytz0jx8l4vmj09yjt0ctyqg9ru8zs --daemon-rpc-address community-pools.mysrv.cloud:10300
